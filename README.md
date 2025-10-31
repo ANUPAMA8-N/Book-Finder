@@ -12,7 +12,7 @@ Styling: Tailwind CSS
 
 State Management: React’s useState Hook
 
-API Used: Open Library API (https://openlibrary.org/search.json)
+API Used: Open Library API 
 
 Deployment: CodeSandbox
 
